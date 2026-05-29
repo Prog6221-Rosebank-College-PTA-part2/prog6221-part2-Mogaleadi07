@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CypherSenseBotPart2/1.0.0": {
+        "runtime": {
+          "CypherSenseBotPart2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CypherSenseBotPart2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

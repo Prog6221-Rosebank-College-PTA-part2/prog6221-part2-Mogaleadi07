@@ -1,0 +1,16 @@
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\bin\Debug\net10.0-windows\CypherSenseBotPart2.exe
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\bin\Debug\net10.0-windows\CypherSenseBotPart2.deps.json
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\bin\Debug\net10.0-windows\CypherSenseBotPart2.runtimeconfig.json
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\bin\Debug\net10.0-windows\CypherSenseBotPart2.dll
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\bin\Debug\net10.0-windows\CypherSenseBotPart2.pdb
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.Form1.resources
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.csproj.GenerateResource.cache
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.AssemblyInfoInputs.cache
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.AssemblyInfo.cs
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.csproj.CoreCompileInputs.cache
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.dll
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\refint\CypherSenseBotPart2.dll
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.pdb
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\CypherSenseBotPart2.genruntimeconfig.cache
+C:\Users\Lesedi\source\repos\CypherSenseBotPart2\CypherSenseBotPart2\obj\Debug\net10.0-windows\ref\CypherSenseBotPart2.dll
