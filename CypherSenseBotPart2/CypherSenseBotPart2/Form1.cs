@@ -68,15 +68,7 @@ namespace CypherSenseBotPart2
             richTextBox1.SelectionStart = richTextBox1.TextLength;
             richTextBox1.ScrollToCaret();
         }
-        // Typing effect method
-        private void TypeText(string message)
-        {
-            foreach (char c in message)
-            {
-                richTextBox1.AppendText(c.ToString());
-                Application.DoEvents();
-                System.Threading.Thread.Sleep(30);
-            }
-        }
+       
+        
     }
 }

@@ -173,8 +173,7 @@ namespace CypherSenseBotPart2
                     int randomIndex = random.Next(topicResponses.Count);
                     string baseResponse = topicResponses[randomIndex];
 
-                    sentiment.SetUserInput(userInput);
-                    string sentimentPrefix = sentiment.GetSentimentPrefix(detectedSentiment, topic);
+                    string sentimentPrefix = sentiment.GetSentimentPrefix(detectedSentiment, topic, userInput);
                     string personalizedResponse = sentimentPrefix + "\n" + baseResponse;
 
                     // Get favorite topic from memory 

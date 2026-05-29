@@ -75,13 +75,13 @@ namespace CypherSenseBotPart2
         }
 
         // Getting the sentiment-based prefix for a response
-        public string GetSentimentPrefix(string sentiment, string cybersecurityIssue)
+        public string GetSentimentPrefix(string sentiment, string cybersecurityIssue, string userInput)
         {
             if (sentimentTemplate.ContainsKey(sentiment))
             {
                 string template = sentimentTemplate[sentiment];
                 template = template.Replace("{issue}", cybersecurityIssue);
-                string emotionKeyword = GetEmotionKeyword(currentUserInput);
+                string emotionKeyword = GetEmotionKeyword(userInput);
                 if (!string.IsNullOrEmpty(emotionKeyword))
                 {
                     template = template.Replace("{emotion}", emotionKeyword);
